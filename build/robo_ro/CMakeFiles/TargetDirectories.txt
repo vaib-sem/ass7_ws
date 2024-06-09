@@ -1,0 +1,9 @@
+/home/mac_vaibubuntu/ass6_ws/build/robo_ro/CMakeFiles/uninstall.dir
+/home/mac_vaibubuntu/ass6_ws/build/robo_ro/CMakeFiles/robo_ro_uninstall.dir
+/home/mac_vaibubuntu/ass6_ws/build/robo_ro/CMakeFiles/test.dir
+/home/mac_vaibubuntu/ass6_ws/build/robo_ro/CMakeFiles/edit_cache.dir
+/home/mac_vaibubuntu/ass6_ws/build/robo_ro/CMakeFiles/rebuild_cache.dir
+/home/mac_vaibubuntu/ass6_ws/build/robo_ro/CMakeFiles/list_install_components.dir
+/home/mac_vaibubuntu/ass6_ws/build/robo_ro/CMakeFiles/install.dir
+/home/mac_vaibubuntu/ass6_ws/build/robo_ro/CMakeFiles/install/local.dir
+/home/mac_vaibubuntu/ass6_ws/build/robo_ro/CMakeFiles/install/strip.dir

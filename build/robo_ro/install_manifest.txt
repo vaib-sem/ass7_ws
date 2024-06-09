@@ -1,0 +1,15 @@
+/home/mac_vaibubuntu/ass6_ws/install/robo_ro/share/ament_index/resource_index/package_run_dependencies/robo_ro
+/home/mac_vaibubuntu/ass6_ws/install/robo_ro/share/ament_index/resource_index/parent_prefix_path/robo_ro
+/home/mac_vaibubuntu/ass6_ws/install/robo_ro/share/robo_ro/environment/ament_prefix_path.sh
+/home/mac_vaibubuntu/ass6_ws/install/robo_ro/share/robo_ro/environment/ament_prefix_path.dsv
+/home/mac_vaibubuntu/ass6_ws/install/robo_ro/share/robo_ro/environment/path.sh
+/home/mac_vaibubuntu/ass6_ws/install/robo_ro/share/robo_ro/environment/path.dsv
+/home/mac_vaibubuntu/ass6_ws/install/robo_ro/share/robo_ro/local_setup.bash
+/home/mac_vaibubuntu/ass6_ws/install/robo_ro/share/robo_ro/local_setup.sh
+/home/mac_vaibubuntu/ass6_ws/install/robo_ro/share/robo_ro/local_setup.zsh
+/home/mac_vaibubuntu/ass6_ws/install/robo_ro/share/robo_ro/local_setup.dsv
+/home/mac_vaibubuntu/ass6_ws/install/robo_ro/share/robo_ro/package.dsv
+/home/mac_vaibubuntu/ass6_ws/install/robo_ro/share/ament_index/resource_index/packages/robo_ro
+/home/mac_vaibubuntu/ass6_ws/install/robo_ro/share/robo_ro/cmake/robo_roConfig.cmake
+/home/mac_vaibubuntu/ass6_ws/install/robo_ro/share/robo_ro/cmake/robo_roConfig-version.cmake
+/home/mac_vaibubuntu/ass6_ws/install/robo_ro/share/robo_ro/package.xml

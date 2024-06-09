@@ -1,0 +1,20 @@
+[0.028s] Invoking command in '/home/mac_vaibubuntu/ass6_ws/build/robo_ro': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/humble /usr/bin/cmake --build /home/mac_vaibubuntu/ass6_ws/build/robo_ro -- -j4 -l4
+[0.385s] Invoked command in '/home/mac_vaibubuntu/ass6_ws/build/robo_ro' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/humble /usr/bin/cmake --build /home/mac_vaibubuntu/ass6_ws/build/robo_ro -- -j4 -l4
+[0.515s] Invoking command in '/home/mac_vaibubuntu/ass6_ws/build/robo_ro': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/humble /usr/bin/cmake --install /home/mac_vaibubuntu/ass6_ws/build/robo_ro
+[0.528s] -- Install configuration: ""
+[0.529s] -- Up-to-date: /home/mac_vaibubuntu/ass6_ws/install/robo_ro/share/ament_index/resource_index/package_run_dependencies/robo_ro
+[0.529s] -- Up-to-date: /home/mac_vaibubuntu/ass6_ws/install/robo_ro/share/ament_index/resource_index/parent_prefix_path/robo_ro
+[0.529s] -- Up-to-date: /home/mac_vaibubuntu/ass6_ws/install/robo_ro/share/robo_ro/environment/ament_prefix_path.sh
+[0.529s] -- Up-to-date: /home/mac_vaibubuntu/ass6_ws/install/robo_ro/share/robo_ro/environment/ament_prefix_path.dsv
+[0.530s] -- Up-to-date: /home/mac_vaibubuntu/ass6_ws/install/robo_ro/share/robo_ro/environment/path.sh
+[0.530s] -- Up-to-date: /home/mac_vaibubuntu/ass6_ws/install/robo_ro/share/robo_ro/environment/path.dsv
+[0.530s] -- Up-to-date: /home/mac_vaibubuntu/ass6_ws/install/robo_ro/share/robo_ro/local_setup.bash
+[0.530s] -- Up-to-date: /home/mac_vaibubuntu/ass6_ws/install/robo_ro/share/robo_ro/local_setup.sh
+[0.530s] -- Up-to-date: /home/mac_vaibubuntu/ass6_ws/install/robo_ro/share/robo_ro/local_setup.zsh
+[0.530s] -- Up-to-date: /home/mac_vaibubuntu/ass6_ws/install/robo_ro/share/robo_ro/local_setup.dsv
+[0.530s] -- Up-to-date: /home/mac_vaibubuntu/ass6_ws/install/robo_ro/share/robo_ro/package.dsv
+[0.530s] -- Up-to-date: /home/mac_vaibubuntu/ass6_ws/install/robo_ro/share/ament_index/resource_index/packages/robo_ro
+[0.530s] -- Up-to-date: /home/mac_vaibubuntu/ass6_ws/install/robo_ro/share/robo_ro/cmake/robo_roConfig.cmake
+[0.530s] -- Up-to-date: /home/mac_vaibubuntu/ass6_ws/install/robo_ro/share/robo_ro/cmake/robo_roConfig-version.cmake
+[0.530s] -- Up-to-date: /home/mac_vaibubuntu/ass6_ws/install/robo_ro/share/robo_ro/package.xml
+[0.543s] Invoked command in '/home/mac_vaibubuntu/ass6_ws/build/robo_ro' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/humble /usr/bin/cmake --install /home/mac_vaibubuntu/ass6_ws/build/robo_ro

@@ -1,0 +1,6 @@
+Invoking command in '/home/mac_vaibubuntu/ass6_ws/build/robo_ro': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/humble /usr/bin/cmake /home/mac_vaibubuntu/ass6_ws/src/robo_ro -DCMAKE_INSTALL_PREFIX=/home/mac_vaibubuntu/ass6_ws/install/robo_ro
+Invoked command in '/home/mac_vaibubuntu/ass6_ws/build/robo_ro' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/humble /usr/bin/cmake /home/mac_vaibubuntu/ass6_ws/src/robo_ro -DCMAKE_INSTALL_PREFIX=/home/mac_vaibubuntu/ass6_ws/install/robo_ro
+Invoking command in '/home/mac_vaibubuntu/ass6_ws/build/robo_ro': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/humble /usr/bin/cmake --build /home/mac_vaibubuntu/ass6_ws/build/robo_ro -- -j4 -l4
+Invoked command in '/home/mac_vaibubuntu/ass6_ws/build/robo_ro' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/humble /usr/bin/cmake --build /home/mac_vaibubuntu/ass6_ws/build/robo_ro -- -j4 -l4
+Invoking command in '/home/mac_vaibubuntu/ass6_ws/build/robo_ro': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/humble /usr/bin/cmake --install /home/mac_vaibubuntu/ass6_ws/build/robo_ro
+Invoked command in '/home/mac_vaibubuntu/ass6_ws/build/robo_ro' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/humble /usr/bin/cmake --install /home/mac_vaibubuntu/ass6_ws/build/robo_ro
